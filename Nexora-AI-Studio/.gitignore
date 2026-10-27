@@ -1,0 +1,6 @@
+node_modules
+.env
+client/dist
+server/workspaces/*
+!server/workspaces/.gitkeep
+*.log
